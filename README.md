@@ -1,53 +1,54 @@
 <div align="center">
 
-  <!-- Okyanus Dalgası Başlık Banner'ı -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:62b6cb&height=120&section=header&animation=fadeIn" width="100%" />
-
-  <!-- Başlık & Daktilo Animasyonu -->
-  <h1>derya</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=62B6CB&center=true&vCenter=true&width=400&lines=ai+%26+data+engineering;python+%E2%80%A2+c%2B%2B+%E2%80%A2+matlab;exploring+intelligent+systems" alt="Typing SVG" />
-  </a>
+  <!-- Okyanus Estetiği Banner (Pinterest'teki Su Dokusu) -->
+  <img src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1000&q=80" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
 
   <br/><br/>
 
-  <!-- Canlı GitHub İstatistik Kartları (Okyanus / Koyu Mavi Temalı) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dykaradeniz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=62b6cb&icon_color=bee9e8" height="145" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykaradeniz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=62b6cb" height="145" />
-  </p>
+  <!-- Başlık & Zarif Yazı -->
+  <h2>derya</h2>
+  <p><i>ai & data engineering ✦ under the sea wonder</i></p>
+
+  <!-- Sevimli Yüzen Deniz Canlısı Animasyonu -->
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="110" />
+
+  <br/><br/>
+
+  <!-- Dolu ve Düzenli Kart Yapısı (Kırılmayan Tablo) -->
+  <table align="center">
+    <tr>
+      <td align="center" width="220">
+        <b>Core Languages</b><br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white" />
+      </td>
+      <td align="center" width="220">
+        <b>Data & ML</b><br/><br/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </td>
+      <td align="center" width="220">
+        <b>Environment & Git</b><br/><br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
-  <!-- Teknolojiler (Garantili & Renkli Rozetler) -->
-  <h3>Tech Stack</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
-  </p>
-
-  <br/>
-
-  <!-- İletişim Butonları -->
+  <!-- Sosyal Bağlantılar -->
   <p>
     <a href="https://www.linkedin.com/in/derya-karadeniz/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:dykaradeniz@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="26" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26" />
     </a>
   </p>
-
-  <br/>
-
-  <!-- Alt Dalgalı Kapanış -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:62b6cb,50:1b4965,100:0d1b2a&height=60&section=footer" width="100%" />
 
 </div>
