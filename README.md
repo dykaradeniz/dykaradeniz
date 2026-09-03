@@ -8,9 +8,11 @@
   <!-- Balina Animasyonu -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Whale" width="65" />
 
-  <!-- Balina ile İkonlar Arası Mesafe Kapatıldı -->
+  <!-- İkonların Arası Açıldı -->
   <p style="margin-top: 4px; margin-bottom: 6px;">
-    <a href="https://www.linkedin.com/in/derya-karadeniz/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a><a href="mailto:dykaradeniz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" style="margin-left: 6px;" /></a>
+    <a href="https://www.linkedin.com/in/derya-karadeniz/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:dykaradeniz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
   </p>
 
   <!-- Alt Kompakt İnce Dalga -->
