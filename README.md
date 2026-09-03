@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Üst Dalga Animasyonu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:62b6cb&height=75&section=header&animation=fadeIn" width="100%" />
+  <!-- Aşağı Doğru Genişletilmiş Üst Dalga Animasyonu -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:62b6cb&height=120&section=header&animation=fadeIn" width="100%" />
 
-  <!-- Dalgaya Yaklaştırılmış Bölüm -->
-  <p style="margin-top: -14px; margin-bottom: 4px;"><i>just keep swimming</i></p>
+  <!-- Dalgaya Yakın Alt Başlık -->
+  <p style="margin-top: -10px; margin-bottom: 4px;"><i>just keep swimming</i></p>
 
   <!-- Balina Animasyonu -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Whale" width="60" />
