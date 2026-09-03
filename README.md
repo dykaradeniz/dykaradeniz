@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Üst Kısım: Dalga Animasyonu -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Wave" width="55" />
+  <!-- Geniş Akıcı Deniz Dalgası Animasyonu -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:62b6cb&height=130&section=header&animation=fadeIn" width="100%" />
 
   <br/>
 
@@ -9,32 +9,27 @@
   <h2>derya</h2>
   <p><i>ai & data</i></p>
 
-  <!-- Ortadaki Balina Animasyonu -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Whale" width="80" />
+  <br/>
+
+  <!-- Balina Animasyonu -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Whale.png" alt="Whale" width="85" />
 
   <br/><br/>
 
-  <!-- Kare App İkonları (Sadece Diller) -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cpp,matlab" height="42" />
-    </a>
-  </p>
-
-  <!-- Kare App İletişim İkonları -->
+  <!-- Kare İletişim İkonları -->
   <p>
     <a href="https://www.linkedin.com/in/derya-karadeniz/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="34" />
+      <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:dykaradeniz@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="34" />
+      <img src="https://skillicons.dev/icons?i=gmail" height="36" />
     </a>
   </p>
 
   <br/>
 
-  <!-- Alt Kısım: Minik Kabuk Animasyonu -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spiral%20Shell.png" alt="Shell" width="30" />
+  <!-- Alt Kapanış İnce Dalga -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:62b6cb,50:1b4965,100:0d1b2a&height=60&section=footer" width="100%" />
 
 </div>
